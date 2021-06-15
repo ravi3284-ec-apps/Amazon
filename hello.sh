@@ -1,1 +1,1 @@
-remote repo..newliy updated...hi... good to practice shell
+for merge..remote repo..newliy updated...hi... good to practice shell
